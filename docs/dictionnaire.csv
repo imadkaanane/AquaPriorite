@@ -1,0 +1,11 @@
+﻿table;grain;colonne;type;unite_ou_sens;manquants
+pays;pays;pays_id;int64;Identifiant fictif;0
+pays;pays;region;str;Région fictive;0
+pays;pays;pays;str;territoire fictif;0
+eau;pays-année-zone;pays_id;int64;Identifiant fictif;0
+eau;pays-année-zone;annee;int64;année civile;0
+eau;pays-année-zone;zone;str;Rural/Urbain;0
+eau;pays-année-zone;population;int64;personnes;0
+eau;pays-année-zone;acces_sur_pct;float64;% population, service sûr simulé;120
+eau;pays-année-zone;budget_millions_eur;float64;millions EUR;0
+eau;pays-année-zone;cout_beneficiaire_eur;float64;EUR/personne;0
